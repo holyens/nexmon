@@ -1,0 +1,9 @@
+[submodule "patches/bcm4339/6_37_34_43/nexmon_csi"]
+	path = patches/bcm4339/6_37_34_43/nexmon_csi
+	url = git@github.com:holyens/nexmon_csi.git
+[submodule "patches/bcm4366c0/10_10_122_20/nexmon_csi"]
+	path = patches/bcm4366c0/10_10_122_20/nexmon_csi
+	url = git@github.com:holyens/nexmon_csi.git
+[submodule "app_loctag"]
+	path = app_loctag
+	url = git@github.com:holyens/loctag.git
